@@ -1,1 +1,1 @@
-Learning Apache Spark using Scala
+Learning Apache Spark using Scala from scratch.
